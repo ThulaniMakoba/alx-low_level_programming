@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -E -o 1-compiler.o
+gcc $CFILE -E -o main.o
