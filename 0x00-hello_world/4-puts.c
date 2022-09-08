@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * This is a simple task to show how Puts works
+ *main-Printing
  *
  * Return: 0 if success.
  */
